@@ -171,9 +171,3 @@ DesignPatterns/
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) - The Gang of Four
 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID) - Object-oriented design principles
 - [Go Documentation](https://golang.org/doc/)
-
----
-
-## License
-
-This repository is provided as educational material.
